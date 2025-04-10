@@ -10,6 +10,7 @@ If you would like a seal that doesn't appear in this list, please open an issue 
 
 | Light                                                  | Dark                                                  |
 |--------------------------------------------------------|-------------------------------------------------------|
+| ![Meta](meta/Meta%20Light.png)                         | ![Meta](meta/Meta%20Dark.png)                         |
 | ![Article](article/Article%20Light.png)                | ![Article](article/Article%20Dark.png)                |
 | ![Artist](artist/Artist%20Light.png)                   | ![Artist](artist/Artist%20Dark.png)                   |
 | ![Book](book/Book%20Light.png)                         | ![Book](book/Book%20Dark.png)                         |
